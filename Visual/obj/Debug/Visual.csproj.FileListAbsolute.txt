@@ -1,0 +1,137 @@
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\Visual.exe.config
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\Visual.exe
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\Visual.pdb
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\Capa_Entidades.dll
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\Logica_capa.dll
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\Capa_datos.dll
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\System.Text.Json.dll
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\System.Formats.Asn1.dll
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\System.Memory.dll
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\System.ValueTuple.dll
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\System.Buffers.dll
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\Capa_Entidades.pdb
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\Logica_capa.pdb
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\Logica_capa.dll.config
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\Capa_datos.pdb
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\Capa_datos.dll.config
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\System.Text.Json.xml
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\System.Formats.Asn1.xml
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\System.Memory.xml
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\System.ValueTuple.xml
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\System.Buffers.xml
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\redol\source\repos\ProyectoForm\Visual\obj\Debug\Visual.csproj.AssemblyReference.cache
+C:\Users\redol\source\repos\ProyectoForm\Visual\obj\Debug\Visual.AgregarCita.resources
+C:\Users\redol\source\repos\ProyectoForm\Visual\obj\Debug\Visual.cambiar.resources
+C:\Users\redol\source\repos\ProyectoForm\Visual\obj\Debug\Visual.Cita.resources
+C:\Users\redol\source\repos\ProyectoForm\Visual\obj\Debug\Visual.Dashboard.resources
+C:\Users\redol\source\repos\ProyectoForm\Visual\obj\Debug\Visual.Login.resources
+C:\Users\redol\source\repos\ProyectoForm\Visual\obj\Debug\Visual.Properties.Resources.resources
+C:\Users\redol\source\repos\ProyectoForm\Visual\obj\Debug\Visual.Servicios.resources
+C:\Users\redol\source\repos\ProyectoForm\Visual\obj\Debug\Visual.csproj.GenerateResource.cache
+C:\Users\redol\source\repos\ProyectoForm\Visual\obj\Debug\Visual.csproj.CoreCompileInputs.cache
+C:\Users\redol\source\repos\ProyectoForm\Visual\obj\Debug\Visual.csproj.Up2Date
+C:\Users\redol\source\repos\ProyectoForm\Visual\obj\Debug\Visual.exe
+C:\Users\redol\source\repos\ProyectoForm\Visual\obj\Debug\Visual.pdb
+C:\Users\redol\source\repos\ProyectoForm\Visual\obj\Debug\MiAplicacion.Clientes.resources
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Visual\bin\Debug\Visual.exe.config
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Visual\bin\Debug\Visual.exe
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Visual\bin\Debug\Visual.pdb
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Visual\bin\Debug\Capa_Entidades.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Visual\bin\Debug\Logica_capa.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Visual\bin\Debug\Capa_datos.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Visual\bin\Debug\Capa_Entidades.pdb
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Visual\bin\Debug\Logica_capa.pdb
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Visual\bin\Debug\Logica_capa.dll.config
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Visual\bin\Debug\Capa_datos.pdb
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Visual\bin\Debug\Capa_datos.dll.config
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Visual\obj\Debug\Visual.csproj.AssemblyReference.cache
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Visual\obj\Debug\Visual.AgregarCita.resources
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Visual\obj\Debug\Visual.cambiar.resources
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Visual\obj\Debug\Visual.Cita.resources
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Visual\obj\Debug\MiAplicacion.Clientes.resources
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Visual\obj\Debug\Visual.Dashboard.resources
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Visual\obj\Debug\Visual.FormularioPrincipal.resources
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Visual\obj\Debug\Visual.Login.resources
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Visual\obj\Debug\Visual.Properties.Resources.resources
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Visual\obj\Debug\Visual.Servicios.resources
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Visual\obj\Debug\Visual.csproj.GenerateResource.cache
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Visual\obj\Debug\Visual.csproj.CoreCompileInputs.cache
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Visual\obj\Debug\Visual.csproj.Up2Date
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Visual\obj\Debug\Visual.exe
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Visual\obj\Debug\Visual.pdb
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Visual\obj\Debug\Visual.Subservicio.resources
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\obj\Debug\Visual.csproj.AssemblyReference.cache
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\obj\Debug\Visual.AgregarCita.resources
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\obj\Debug\Visual.cambiar.resources
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\obj\Debug\Visual.Cita.resources
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\obj\Debug\MiAplicacion.Clientes.resources
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\obj\Debug\Visual.Dashboard.resources
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\obj\Debug\MiAplicacion.Empleados.resources
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\obj\Debug\Visual.FormularioPrincipal.resources
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\obj\Debug\Visual.Login.resources
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\obj\Debug\Visual.Properties.Resources.resources
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\obj\Debug\Visual.Servicios.resources
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\obj\Debug\Visual.csproj.GenerateResource.cache
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\obj\Debug\Visual.csproj.CoreCompileInputs.cache
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\Visual.exe.config
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\Visual.exe
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\Visual.pdb
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\Capa_Entidades.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\IndexRange.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\Logica_capa.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\System.Buffers.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\System.Memory.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\System.Text.Json.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\System.ValueTuple.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\Telegram.Bot.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\Capa_datos.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\Capa_Entidades.pdb
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\Logica_capa.pdb
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\Logica_capa.dll.config
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\System.Buffers.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\System.Memory.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\System.Text.Json.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\System.ValueTuple.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\Telegram.Bot.pdb
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\Telegram.Bot.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\Capa_datos.pdb
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\bin\Debug\Capa_datos.dll.config
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\obj\Debug\Visual.csproj.Up2Date
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\obj\Debug\Visual.exe
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Visual\obj\Debug\Visual.pdb

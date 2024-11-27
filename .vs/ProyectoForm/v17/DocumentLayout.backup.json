@@ -1,0 +1,465 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16B02B1D-FA40-464D-A7ED-09A2012C5971}|Visual\\Visual.csproj|C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\visual\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16B02B1D-FA40-464D-A7ED-09A2012C5971}|Visual\\Visual.csproj|solutionrelative:visual\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C61E81-79F2-4E7F-A7F9-6D502D9FC9F0}|Logica_capa\\Logica_capa.csproj|C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\logica_capa\\logica_cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C61E81-79F2-4E7F-A7F9-6D502D9FC9F0}|Logica_capa\\Logica_capa.csproj|solutionrelative:logica_capa\\logica_cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B08A82-BF6B-47C6-87AE-32F80415B1F3}|Capa_Entidades\\Capa_Entidades.csproj|c:\\users\\redol\\onedrive\\desktop\\proyecto programacion 3\\proyectoform-copia\\proyectoform\\capa_entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B08A82-BF6B-47C6-87AE-32F80415B1F3}|Capa_Entidades\\Capa_Entidades.csproj|solutionrelative:capa_entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B08A82-BF6B-47C6-87AE-32F80415B1F3}|Capa_Entidades\\Capa_Entidades.csproj|c:\\users\\redol\\onedrive\\desktop\\proyecto programacion 3\\proyectoform-copia\\proyectoform\\capa_entidades\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B08A82-BF6B-47C6-87AE-32F80415B1F3}|Capa_Entidades\\Capa_Entidades.csproj|solutionrelative:capa_entidades\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B08A82-BF6B-47C6-87AE-32F80415B1F3}|Capa_Entidades\\Capa_Entidades.csproj|c:\\users\\redol\\onedrive\\desktop\\proyecto programacion 3\\proyectoform-copia\\proyectoform\\capa_entidades\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B08A82-BF6B-47C6-87AE-32F80415B1F3}|Capa_Entidades\\Capa_Entidades.csproj|solutionrelative:capa_entidades\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513239B3-B109-4D12-9773-485A6D741AFC}|Capa_datos\\Capa_datos.csproj|c:\\users\\redol\\onedrive\\desktop\\proyecto programacion 3\\proyectoform-copia\\proyectoform\\capa_datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513239B3-B109-4D12-9773-485A6D741AFC}|Capa_datos\\Capa_datos.csproj|solutionrelative:capa_datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B02B1D-FA40-464D-A7ED-09A2012C5971}|Visual\\Visual.csproj|C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\visual\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B02B1D-FA40-464D-A7ED-09A2012C5971}|Visual\\Visual.csproj|solutionrelative:visual\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C61E81-79F2-4E7F-A7F9-6D502D9FC9F0}|Logica_capa\\Logica_capa.csproj|C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\logica_capa\\logica_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C61E81-79F2-4E7F-A7F9-6D502D9FC9F0}|Logica_capa\\Logica_capa.csproj|solutionrelative:logica_capa\\logica_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B02B1D-FA40-464D-A7ED-09A2012C5971}|Visual\\Visual.csproj|C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\visual\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B02B1D-FA40-464D-A7ED-09A2012C5971}|Visual\\Visual.csproj|solutionrelative:visual\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B02B1D-FA40-464D-A7ED-09A2012C5971}|Visual\\Visual.csproj|c:\\users\\redol\\onedrive\\desktop\\proyecto programacion 3\\proyectoform-copia\\proyectoform\\visual\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16B02B1D-FA40-464D-A7ED-09A2012C5971}|Visual\\Visual.csproj|solutionrelative:visual\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A51097-E083-4A43-A509-F708DB537CEC}|Bot\\Bot.csproj|c:\\users\\redol\\onedrive\\desktop\\proyecto programacion 3\\proyectoform-copia\\proyectoform\\bot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A51097-E083-4A43-A509-F708DB537CEC}|Bot\\Bot.csproj|solutionrelative:bot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A51097-E083-4A43-A509-F708DB537CEC}|Bot\\Bot.csproj|c:\\users\\redol\\onedrive\\desktop\\proyecto programacion 3\\proyectoform-copia\\proyectoform\\bot\\bot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D5A51097-E083-4A43-A509-F708DB537CEC}|Bot\\Bot.csproj|solutionrelative:bot\\bot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B02B1D-FA40-464D-A7ED-09A2012C5971}|Visual\\Visual.csproj|C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\visual\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B02B1D-FA40-464D-A7ED-09A2012C5971}|Visual\\Visual.csproj|solutionrelative:visual\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A51097-E083-4A43-A509-F708DB537CEC}|Bot\\Bot.csproj|c:\\users\\redol\\onedrive\\desktop\\proyecto programacion 3\\proyectoform-copia\\proyectoform\\bot\\bot.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D5A51097-E083-4A43-A509-F708DB537CEC}|Bot\\Bot.csproj|solutionrelative:bot\\bot.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B02B1D-FA40-464D-A7ED-09A2012C5971}|Visual\\Visual.csproj|C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\visual\\cambiar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16B02B1D-FA40-464D-A7ED-09A2012C5971}|Visual\\Visual.csproj|solutionrelative:visual\\cambiar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C61E81-79F2-4E7F-A7F9-6D502D9FC9F0}|Logica_capa\\Logica_capa.csproj|C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\logica_capa\\logica_servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C61E81-79F2-4E7F-A7F9-6D502D9FC9F0}|Logica_capa\\Logica_capa.csproj|solutionrelative:logica_capa\\logica_servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B02B1D-FA40-464D-A7ED-09A2012C5971}|Visual\\Visual.csproj|C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\visual\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16B02B1D-FA40-464D-A7ED-09A2012C5971}|Visual\\Visual.csproj|solutionrelative:visual\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B02B1D-FA40-464D-A7ED-09A2012C5971}|Visual\\Visual.csproj|C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\visual\\agregarcita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B02B1D-FA40-464D-A7ED-09A2012C5971}|Visual\\Visual.csproj|solutionrelative:visual\\agregarcita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B02B1D-FA40-464D-A7ED-09A2012C5971}|Visual\\Visual.csproj|C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\visual\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B02B1D-FA40-464D-A7ED-09A2012C5971}|Visual\\Visual.csproj|solutionrelative:visual\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B02B1D-FA40-464D-A7ED-09A2012C5971}|Visual\\Visual.csproj|C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\visual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B02B1D-FA40-464D-A7ED-09A2012C5971}|Visual\\Visual.csproj|solutionrelative:visual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B02B1D-FA40-464D-A7ED-09A2012C5971}|Visual\\Visual.csproj|C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\visual\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B02B1D-FA40-464D-A7ED-09A2012C5971}|Visual\\Visual.csproj|solutionrelative:visual\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B02B1D-FA40-464D-A7ED-09A2012C5971}|Visual\\Visual.csproj|C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\visual\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B02B1D-FA40-464D-A7ED-09A2012C5971}|Visual\\Visual.csproj|solutionrelative:visual\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B02B1D-FA40-464D-A7ED-09A2012C5971}|Visual\\Visual.csproj|C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\visual\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16B02B1D-FA40-464D-A7ED-09A2012C5971}|Visual\\Visual.csproj|solutionrelative:visual\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B02B1D-FA40-464D-A7ED-09A2012C5971}|Visual\\Visual.csproj|C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\visual\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16B02B1D-FA40-464D-A7ED-09A2012C5971}|Visual\\Visual.csproj|solutionrelative:visual\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B02B1D-FA40-464D-A7ED-09A2012C5971}|Visual\\Visual.csproj|C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\visual\\formularioprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16B02B1D-FA40-464D-A7ED-09A2012C5971}|Visual\\Visual.csproj|solutionrelative:visual\\formularioprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B02B1D-FA40-464D-A7ED-09A2012C5971}|Visual\\Visual.csproj|C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\visual\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B02B1D-FA40-464D-A7ED-09A2012C5971}|Visual\\Visual.csproj|solutionrelative:visual\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B02B1D-FA40-464D-A7ED-09A2012C5971}|Visual\\Visual.csproj|C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\visual\\formularioprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B02B1D-FA40-464D-A7ED-09A2012C5971}|Visual\\Visual.csproj|solutionrelative:visual\\formularioprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 377,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Capa_Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "Capa_Entidades\\Usuario.cs",
+              "ToolTip": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Capa_Entidades\\Usuario.cs",
+              "RelativeToolTip": "Capa_Entidades\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:29:17.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Capa_Entidades\\Servicio.cs",
+              "RelativeDocumentMoniker": "Capa_Entidades\\Servicio.cs",
+              "ToolTip": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Capa_Entidades\\Servicio.cs",
+              "RelativeToolTip": "Capa_Entidades\\Servicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:29:17.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cita.cs",
+              "DocumentMoniker": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Capa_Entidades\\Cita.cs",
+              "RelativeDocumentMoniker": "Capa_Entidades\\Cita.cs",
+              "ToolTip": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Capa_Entidades\\Cita.cs",
+              "RelativeToolTip": "Capa_Entidades\\Cita.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:00:03.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cita.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Visual\\Cita.cs",
+              "RelativeDocumentMoniker": "Visual\\Cita.cs",
+              "ToolTip": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Visual\\Cita.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Visual\\Cita.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T04:14:18.829Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Bot",
+              "DocumentMoniker": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Bot\\Bot.csproj",
+              "RelativeDocumentMoniker": "Bot\\Bot.csproj",
+              "ToolTip": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Bot\\Bot.csproj",
+              "RelativeToolTip": "Bot\\Bot.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-27T04:19:33.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Visual\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Visual\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Visual\\Dashboard.cs",
+              "RelativeToolTip": "Visual\\Dashboard.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAwwHsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T03:25:32.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logica_cita.cs",
+              "DocumentMoniker": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Logica_capa\\Logica_cita.cs",
+              "RelativeDocumentMoniker": "Logica_capa\\Logica_cita.cs",
+              "ToolTip": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Logica_capa\\Logica_cita.cs",
+              "RelativeToolTip": "Logica_capa\\Logica_cita.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAAL4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:23:56.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Visual\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Visual\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Visual\\Dashboard.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Visual\\Dashboard.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T03:23:04.251Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "cambiar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Visual\\cambiar.cs",
+              "RelativeDocumentMoniker": "Visual\\cambiar.cs",
+              "ToolTip": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Visual\\cambiar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Visual\\cambiar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T19:24:28.271Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Logica_cliente.cs",
+              "DocumentMoniker": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Logica_capa\\Logica_cliente.cs",
+              "RelativeDocumentMoniker": "Logica_capa\\Logica_cliente.cs",
+              "ToolTip": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Logica_capa\\Logica_cliente.cs",
+              "RelativeToolTip": "Logica_capa\\Logica_cliente.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAiwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:52:14.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bot.csproj",
+              "DocumentMoniker": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Bot\\Bot.csproj",
+              "RelativeDocumentMoniker": "Bot\\Bot.csproj",
+              "ToolTip": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Bot\\Bot.csproj",
+              "RelativeToolTip": "Bot\\Bot.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-26T22:27:51.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Visual\\Clientes.cs",
+              "RelativeDocumentMoniker": "Visual\\Clientes.cs",
+              "ToolTip": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Visual\\Clientes.cs",
+              "RelativeToolTip": "Visual\\Clientes.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAcwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:30:01.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Capa_datos\\Conexion.cs",
+              "RelativeDocumentMoniker": "Capa_datos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Capa_datos\\Conexion.cs",
+              "RelativeToolTip": "Capa_datos\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:38:34.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cita.cs",
+              "DocumentMoniker": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Visual\\Cita.cs",
+              "RelativeDocumentMoniker": "Visual\\Cita.cs",
+              "ToolTip": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Visual\\Cita.cs",
+              "RelativeToolTip": "Visual\\Cita.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAIA5wI0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:05:09.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Logica_servicio.cs",
+              "DocumentMoniker": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Logica_capa\\Logica_servicio.cs",
+              "RelativeDocumentMoniker": "Logica_capa\\Logica_servicio.cs",
+              "ToolTip": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Logica_capa\\Logica_servicio.cs",
+              "RelativeToolTip": "Logica_capa\\Logica_servicio.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:53:55.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Visual\\Login.cs",
+              "RelativeDocumentMoniker": "Visual\\Login.cs",
+              "ToolTip": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Visual\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Visual\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T19:04:48.924Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Bot\\Program.cs",
+              "RelativeDocumentMoniker": "Bot\\Program.cs",
+              "ToolTip": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Bot\\Program.cs",
+              "RelativeToolTip": "Bot\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwDwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:30:49.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Dashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Visual\\Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Visual\\Dashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Visual\\Dashboard.Designer.cs",
+              "RelativeToolTip": "Visual\\Dashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T03:23:53.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AgregarCita.cs",
+              "DocumentMoniker": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Visual\\AgregarCita.cs",
+              "RelativeDocumentMoniker": "Visual\\AgregarCita.cs",
+              "ToolTip": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Visual\\AgregarCita.cs",
+              "RelativeToolTip": "Visual\\AgregarCita.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAewEIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:00:10.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Visual\\Program.cs",
+              "RelativeDocumentMoniker": "Visual\\Program.cs",
+              "ToolTip": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Visual\\Program.cs",
+              "RelativeToolTip": "Visual\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T07:32:15.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Empleados.cs",
+              "DocumentMoniker": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Visual\\Empleados.cs",
+              "RelativeDocumentMoniker": "Visual\\Empleados.cs",
+              "ToolTip": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Visual\\Empleados.cs",
+              "RelativeToolTip": "Visual\\Empleados.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwGAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:45:07.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Visual\\Login.cs",
+              "RelativeDocumentMoniker": "Visual\\Login.cs",
+              "ToolTip": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Visual\\Login.cs",
+              "RelativeToolTip": "Visual\\Login.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAmwFMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:26:03.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Clientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Visual\\Clientes.cs",
+              "RelativeDocumentMoniker": "Visual\\Clientes.cs",
+              "ToolTip": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Visual\\Clientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Visual\\Clientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T19:05:42.314Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Servicios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Visual\\Servicios.cs",
+              "RelativeDocumentMoniker": "Visual\\Servicios.cs",
+              "ToolTip": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Visual\\Servicios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Visual\\Servicios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:12:20.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormularioPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Visual\\FormularioPrincipal.cs",
+              "RelativeDocumentMoniker": "Visual\\FormularioPrincipal.cs",
+              "ToolTip": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Visual\\FormularioPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Visual\\FormularioPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T19:48:23.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FormularioPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Visual\\FormularioPrincipal.cs",
+              "RelativeDocumentMoniker": "Visual\\FormularioPrincipal.cs",
+              "ToolTip": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Visual\\FormularioPrincipal.cs",
+              "RelativeToolTip": "Visual\\FormularioPrincipal.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:13:40.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Servicios.cs",
+              "DocumentMoniker": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Visual\\Servicios.cs",
+              "RelativeDocumentMoniker": "Visual\\Servicios.cs",
+              "ToolTip": "C:\\Users\\redol\\OneDrive\\Desktop\\Proyecto Programacion 3\\ProyectoForm-copia\\ProyectoForm\\Visual\\Servicios.cs",
+              "RelativeToolTip": "Visual\\Servicios.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:38:43.539Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

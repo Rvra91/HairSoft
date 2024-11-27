@@ -1,0 +1,99 @@
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\bin\Debug\Capa_datos.dll.config
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\bin\Debug\Capa_datos.dll
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\bin\Debug\Capa_datos.pdb
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\bin\Debug\Capa_Entidades.dll
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\bin\Debug\System.Buffers.dll
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\bin\Debug\System.Formats.Asn1.dll
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\bin\Debug\System.Memory.dll
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\bin\Debug\System.Text.Json.dll
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\bin\Debug\System.ValueTuple.dll
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\bin\Debug\Capa_Entidades.pdb
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\bin\Debug\System.Buffers.xml
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\bin\Debug\System.Formats.Asn1.xml
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\bin\Debug\System.Memory.xml
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\bin\Debug\System.Text.Json.xml
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\bin\Debug\System.ValueTuple.xml
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\obj\Debug\Capa_datos.csproj.AssemblyReference.cache
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\obj\Debug\Capa_datos.csproj.CoreCompileInputs.cache
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\obj\Debug\Capa_datos.csproj.Up2Date
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\obj\Debug\Capa_datos.dll
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\obj\Debug\Capa_datos.pdb
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_datos\bin\Debug\Capa_datos.dll.config
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_datos\bin\Debug\Capa_datos.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_datos\bin\Debug\Capa_datos.pdb
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_datos\bin\Debug\Capa_Entidades.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_datos\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_datos\bin\Debug\System.Buffers.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_datos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_datos\bin\Debug\System.Formats.Asn1.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_datos\bin\Debug\System.Memory.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_datos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_datos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_datos\bin\Debug\System.Text.Json.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_datos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_datos\bin\Debug\System.ValueTuple.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_datos\bin\Debug\Capa_Entidades.pdb
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_datos\bin\Debug\System.Buffers.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_datos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_datos\bin\Debug\System.Formats.Asn1.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_datos\bin\Debug\System.Memory.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_datos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_datos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_datos\bin\Debug\System.Text.Json.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_datos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_datos\bin\Debug\System.ValueTuple.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_datos\obj\Debug\Capa_datos.csproj.AssemblyReference.cache
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_datos\obj\Debug\Capa_datos.csproj.CoreCompileInputs.cache
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_datos\obj\Debug\Capa_datos.csproj.Up2Date
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_datos\obj\Debug\Capa_datos.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_datos\obj\Debug\Capa_datos.pdb
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_datos\bin\Debug\Capa_datos.dll.config
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_datos\bin\Debug\Capa_datos.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_datos\bin\Debug\Capa_datos.pdb
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_datos\bin\Debug\Capa_Entidades.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_datos\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_datos\bin\Debug\System.Buffers.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_datos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_datos\bin\Debug\System.Formats.Asn1.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_datos\bin\Debug\System.Memory.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_datos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_datos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_datos\bin\Debug\System.Text.Json.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_datos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_datos\bin\Debug\System.ValueTuple.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_datos\bin\Debug\Capa_Entidades.pdb
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_datos\bin\Debug\System.Buffers.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_datos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_datos\bin\Debug\System.Formats.Asn1.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_datos\bin\Debug\System.Memory.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_datos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_datos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_datos\bin\Debug\System.Text.Json.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_datos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_datos\bin\Debug\System.ValueTuple.xml
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_datos\obj\Debug\Capa_datos.csproj.AssemblyReference.cache
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_datos\obj\Debug\Capa_datos.csproj.CoreCompileInputs.cache
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_datos\obj\Debug\Capa_datos.csproj.Up2Date
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_datos\obj\Debug\Capa_datos.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_datos\obj\Debug\Capa_datos.pdb

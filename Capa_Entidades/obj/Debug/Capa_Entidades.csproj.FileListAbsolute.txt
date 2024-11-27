@@ -1,0 +1,18 @@
+C:\Users\redol\source\repos\ProyectoForm\Capa_Entidades\bin\Debug\Capa_Entidades.dll
+C:\Users\redol\source\repos\ProyectoForm\Capa_Entidades\bin\Debug\Capa_Entidades.pdb
+C:\Users\redol\source\repos\ProyectoForm\Capa_Entidades\obj\Debug\Capa_Entidades.csproj.AssemblyReference.cache
+C:\Users\redol\source\repos\ProyectoForm\Capa_Entidades\obj\Debug\Capa_Entidades.csproj.CoreCompileInputs.cache
+C:\Users\redol\source\repos\ProyectoForm\Capa_Entidades\obj\Debug\Capa_Entidades.dll
+C:\Users\redol\source\repos\ProyectoForm\Capa_Entidades\obj\Debug\Capa_Entidades.pdb
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_Entidades\bin\Debug\Capa_Entidades.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_Entidades\bin\Debug\Capa_Entidades.pdb
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_Entidades\obj\Debug\Capa_Entidades.csproj.AssemblyReference.cache
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_Entidades\obj\Debug\Capa_Entidades.csproj.CoreCompileInputs.cache
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_Entidades\obj\Debug\Capa_Entidades.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm\Capa_Entidades\obj\Debug\Capa_Entidades.pdb
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_Entidades\bin\Debug\Capa_Entidades.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_Entidades\bin\Debug\Capa_Entidades.pdb
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_Entidades\obj\Debug\Capa_Entidades.csproj.AssemblyReference.cache
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_Entidades\obj\Debug\Capa_Entidades.csproj.CoreCompileInputs.cache
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_Entidades\obj\Debug\Capa_Entidades.dll
+C:\Users\redol\OneDrive\Desktop\Proyecto Programacion 3\ProyectoForm-copia\ProyectoForm\Capa_Entidades\obj\Debug\Capa_Entidades.pdb
